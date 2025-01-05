@@ -6,6 +6,6 @@ DOMAIN-KEYWORD,google
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 # 目标ip匹配
-IP-CIDR,114.50.79.230/32,no-resolve
+IP-CIDR,114.55.79.230/32,no-resolve
 IP-CIDR,116.62.30.29/32,no-resolve
 IP-CIDR,118.31.223.4/32,no-resolve
