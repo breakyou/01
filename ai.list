@@ -1,11 +1,11 @@
 # 内容：OpenAi Bard anthropic
 # 域名关键字匹配
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,google
-# 域名后缀匹配
-DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-KEYWORD,unisiot
 # 目标ip匹配
 IP-CIDR,114.55.79.230/32,no-resolve
 IP-CIDR,116.62.30.29/32,no-resolve
 IP-CIDR,118.31.223.4/32,no-resolve
+IP-CIDR,120.55.39.28/32,no-resolve
+IP-CIDR,121.43.36.105/32,no-resolve
+IP-CIDR,47.111.104.121/32,no-resolve
+IP-CIDR,47.111.104.239/32,no-resolve
